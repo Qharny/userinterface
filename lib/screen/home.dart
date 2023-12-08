@@ -313,7 +313,7 @@ class RouteWhereYouGo extends StatelessWidget {
         centerTitle: true,
         shadowColor: Colors.black.withOpacity(.5),
         title: Text(
-          'EXAMPLE  PAGE',
+          'WELCOME TO ...',
           style: TextStyle(
               color: Colors.black.withOpacity(.7),
               fontWeight: FontWeight.w600,
